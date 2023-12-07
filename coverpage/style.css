@@ -1,14 +1,14 @@
-@import url()
+@import url('https//fonts.googleapis.com/css?family=Roboto:wght@400;500;700;900&display=swap');
 body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    font-family: 'Courier New', Courier, monospace ;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1{
-    font-size:  1.5rem; ;
+    font-size:  1.5rem; 
 }
 h4{
     font-size: .9rem;
